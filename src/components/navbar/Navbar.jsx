@@ -20,7 +20,7 @@ const Navbar = () => {
                         <p><a href="#inicio">Inicio</a></p>
                         <p><a href="#blog">Blog</a></p>
                         <p><a href="#academy">academy</a></p>
-                        <p><a href="#contacto">contacto</a></p>
+                        <p><a href="#contacto">repositories</a></p>
                         <p><a href="#about">About</a></p>
                 </div>
             </div>
@@ -38,7 +38,7 @@ const Navbar = () => {
                         <p><a href="#inicio">Inicio</a></p>
                         <p><a href="#blog">Blog</a></p>
                         <p><a href="#academy">academy</a></p>
-                        <p><a href="#contacto">contacto</a></p>
+                        <p><a href="#contacto">repositories</a></p>
                         <p><a href="#about">About</a></p>
                         </div>
                         <div className="malicia__navbar-menu_container-links-sign">
