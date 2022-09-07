@@ -1,0 +1,1172 @@
+Universitas Philosophica 46, (pp. 99- 128)
+
+junio 2006, Bogotá, Colombia
+
+REALIDAD Y RAZÓN EN LA PRÁCTICA DE LA
+CIENCIA
+Juan Carlos Moreno*
+
+RESUMEN
+Los planteamientos de Ian Hacking han sido fundamentales para el giro que la
+Filosofía de la Ciencia ha hecho hacia el estudio de la práctica experimental.
+Hacking muestra cómo la filosofía se ha concentrado tradicionalmente en
+las representaciones de la ciencia dejando de lado las intervenciones. Pero
+precisamente el estudio de las intervenciones ofrece aportes claves para
+entender la usual posición realista que asumen los científicos en su trabajo.
+La práctica interventora permite cuestionar las teorías realistas y los
+planteamientos racionalistas, sin que esto suponga el abandono de criterios
+realistas en lo referente a los objetos con los que trabaja el científico. El
+sentido de la propuesta de Hacking no es la argumentación de un nuevo
+tipo de realismo, sino el proyecto amplio de pensar la ciencia no sólo
+como un conocimiento, sino como un proceso material de realización y de
+automoldeamiento estable de ideas y hechos.
+Palabras clave: Práctica científica, intervención, realismo, autojustificación,
+estilos de razonamiento.
+
+*Pontificia Universidad Javeriana, Bogotá.
+
+Universitas Philosophica 46, (pp. 99- 128)
+
+junio 2006, Bogotá, Colombia
+
+REALITY AND REASON IN THE PRACTICE OF
+SCIENCE
+Juan Carlos Moreno*
+
+ABSTRACT
+Ian Hacking approaches have been fundamental for the turn that Philosophy of
+Science has done towards the study of experimental practice. Hacking shows
+how the philosophy has concentrated traditionally in the representations of
+sideways science leaving the interventions out. But exactly the study of those
+interventions offers key contributions in order to understand very important
+aspects, such as the usual realistic position that scientists assume in their work.
+The intervening practice allows asking questions about the realistic theories
+and the rationalists approaches, without implying an abandonment of realistic
+criteria when referring to objects which the scientist is working. The sense
+of Hacking’s proposal is not the arguing of a new type of realism, but the
+extensive project of thinking about science not only as knowledge, but also
+like a material process of execution and of stable self-molding of ideas and
+facts.
+Key words: Scientific practice, Intervention, Realism, Self-
+
+justification, Reasoning styles.
+
+*Pontificia Universidad Javeriana, Bogotá.
+
+1. Introducción
+
+El giro de la Filosofía de la Ciencia hacia la práctica científica representa
+seguramente la más revolucionaria transformación acontecida en este campo
+a partir de la segunda mitad del siglo XX. Sin embargo, esa transformación
+no se agotó en el giro propuesto por Thomas Kuhn y los estudios sociohistóricos de la ciencia, sino que se está profundizando actualmente en un
+doble giro gestado por los aportes de Ian Hacking, Bruno Latour, Pickering
+y Galison, principalmente.
+Es apropiada la expresión “doble giro”, porque si bien, los estudios
+de la práctica socio-histórica de la ciencia, hechos por Thomas Kuhn,
+los historiadores y los sociólogos, lograron cuestionar muchos aspectos
+tradicionales del análisis de la ciencia, los estudios de los otros autores
+mencionados han permitido revelar muchos otros aspectos que dan
+continuidad y estabilidad a la ciencia y a partir de los cuales se pueden
+identificar, acciones que en su desarrollo le dan forma a rasgos de la ciencia
+que antes se analizaban sólo de manera teórica, como el realismo con el que
+operan los científicos, las exigencias de objetividad, la tendencia hacia un
+avance o progreso racional, etc.
+Los nuevos estudios han mostrado que la práctica científica no se reduce
+a la manifestación de los aspectos históricos y sociales macro que determinan
+la ciencia, sino que incluye muchos otros aspectos relacionados con las
+acciones, las intervenciones o las actividades rutinarias de los científicos que
+configuran tanto el conocimiento generado, como la realidad investigada.
+Esos aspectos tienen que ver con las dinámicas de los laboratorios y otras
+dinámicas mediadas por los instrumentos, las técnicas de control y de medida,
+las designaciones, las clasificaciones, las controversias, etc. El primer giro
+se podría denominar una filosofía socio-histórica de la ciencia y el segundo
+giro una filosofía de la actividad, la acción o de la intervención científica.
+En general, el primer giro hacia la práctica científica le dio vida sociohistórica a la ciencia, antes abstracta, pero continuó con la idea que la ciencia
+es fundamentalmente un conjunto de representaciones, manifestada en
+teorías, paradigmas, programas, tradiciones o modelos1. Mientras el segundo
+1. Los distintos términos se relacionan con los aportes de Popper, Kuhn, Lakatos, Laudan
+y los estructuralistas.
+
+universitas philosophica 46 jun 2006
+
+102
+
+juan carlos moreno
+
+giro ha revelado que la ciencia se configura como tal en la acción o en la
+intervención locales, y no exclusivamente en la representación.2 Esta idea
+se encontraba presente antes en las tesis epistemológicas de Piaget y en el
+pragmatismo norteamericano, pero no a partir de estudios específicos de la
+práctica científica, sino de estudios psicológicos o de tesis filosóficas, que
+de cualquier manera no permitieron nuevos planteamientos sobre aspectos
+básicos de la ciencia, como el realismo, la objetividad, el progreso y la
+racionalidad.
+Este nuevo enfoque de estudio de la práctica científica asume una
+visión materialista que toma como punto de partida lo que se manifiesta
+con frecuencia de manera efectiva o de hecho en las actividades de los
+científicos. Y supone que ello puede tener (aunque no necesariamente) alguna
+explicación filosófica por elucidar. Este enfoque en lugar de comprender
+la práctica material de la ciencia desde la especulación teórica o el análisis
+contextual, trata de comprender las virtudes teóricas de la ciencia desde el
+análisis de su práctica material, bajo el supuesto del carácter prioritario de
+la acción en la ciencia. Y la constatación de regularidades y estabilidades
+en la acciones e intervenciones de los científicos, en distintos contextos,
+ha permitido ofrecer no sólo una labor crítica y restrictiva, sino también
+propositiva y resolutiva para el desafío de una lectura normativa de la ciencia.
+Los aportes de este artículo se ubican en el segundo giro señalado, pero
+más que dar cuenta de los aspectos generales de esta perspectiva, intenta
+analizar, desde la perspectiva de Ian Hacking, la posición ‘realista’ de los
+científicos en su quehacer cotidiano, con respecto a las entidades con las
+que trabajan. El artículo precisa el sentido de ese realismo. Pero el aporte
+más importante que ofrece consiste en mostrar los planteamientos filosóficos
+vinculados con esta propuesta realista. Estos planteamientos se encuentran
+dispersos en los textos de Hacking y sus implicaciones no se encuentran
+suficientemente desarrolladas por el autor.
+Esta posición realista se ha convertido en un punto de vista muy
+importante no sólo en el tema del realismo, sino de manera más amplia,
+en relación con los aportes que la práctica científica puede ofrecer para
+comprender las características habituales y estables del conocimiento
+2. Dos textos centrales donde se manifiesta claramente este giro son: Latour, 2003. Science
+in Action; y Hacking, 1986. Representar e intervenir.
+
+universitas philosophica 46 jun 2006
+
+realidad y razón en la práctica de la ciencia
+
+103
+
+científico. Ella toma distancia de los planteamientos construccionistas de los
+Estudios Sociales de la Ciencia, que asumen también el punto de partida de
+los análisis de la práctica científica, pero con las limitaciones señaladas del
+primer giro. Y en este sentido es interesante hacer notar cómo la práctica
+científica se puede interpretar de diferentes maneras y nutrir de argumentos
+no sólo al construccionismo, sino también al realismo.
+2. El realismo manifiesto en la práctica de la ciencia
+
+Una vez la filosofía de la ciencia se concentró en la práctica científica
+surgieron un conjunto de planteamientos que problematizaron los aspectos
+que intervienen en la objetivación del conocimiento científico, especialmente
+la construcción del conocimiento y la determinación de lo real.
+El hecho de comprender la ciencia en sus circunstancias espaciotemporales condujo a los teóricos a pensar sobre situaciones que poco se
+habían considerado antes o se habían soslayado, como la inevitabilidad de
+lo valorativo y de las creencias en la ciencia, la infradeterminación de lo
+observable, la inconmensurabilidad y la carga teórica de la observación. La
+evidencia de estas situaciones en el análisis de los cambios científicos hizo
+revivir el viejo debate del realismo, y motivó a varios filósofos a rechazar
+el realismo metafísico latente en la concepción positivista de la ciencia.
+Pero a la vez, llevó a proponer como contrapeso nuevos planteamientos
+coherentistas y realistas anti-metafísicos como el realismo interno de Putnam,
+o el realismo convergente, o el realismo constructivo de Giere, el realismo
+crítico de Niiniluoto, etc. (Cfr. Diéguez, 1998).
+En su mayoría, estos planteamientos teóricos sobre el realismo han
+intentado hacer un contrapeso a la concepción relativista y construccionista
+a la que han llegado algunos de los estudios sociales de la ciencia. Sin
+embargo, también la mayoría de estos debates teóricos sobre el realismo se
+han mantenido dentro del ámbito de lo representacional.
+Frente a estos debates, los recientes estudios de la práctica científica de
+Ian Hacking hacen aportes significativos, pero no en el sentido de colocar
+nuevos elementos teóricos dentro del caldero de una discusión ya bastante
+sofisticada, sino en el sentido de analizar el asunto desde otra perspectiva y en
+otros términos, que poco tienen que ver con el problema de cómo se justifica
+la realidad en la ciencia. En su lugar, los nuevos estudios de la práctica
+
+universitas philosophica 46 jun 2006
+
+104
+
+juan carlos moreno
+
+científica aportan explicaciones de la tendencia concreta de los científicos
+a ser realistas con respecto a los entes propuestos en sus investigaciones.
+Es decir, sus aportes no se inscriben dentro de un debate filosófico con
+implicaciones en la práctica de la ciencia, sino que consiste en el análisis
+de aspectos de la práctica científica que tiene profundas implicaciones
+filosóficas. Para el teórico de la actividad o la intervención en la ciencia, los
+científicos suelen ser realistas sobre las entidades en su quehacer, a pesar
+de lo adecuado o inadecuado que el realismo les parezca a los filósofos.
+No se trata de una nueva posición teórica frente a debates como el del
+realismo y el anti-realismo, sino de lo que pueden revelar los estudios de
+la práctica científica en relación con la posición realista que usualmente
+aplican los científicos en su trabajo experimental. La práctica interventora
+constituye una crítica importante a los realismos metafísicos, sin que ello
+suponga el abandono de criterios realistas en lo referente a los objetos del
+mundo. Al contrario, la práctica interventora puede aportar argumentos para
+afirmar esa posición realista.
+El enfoque propuesto por Hacking consiste en volver a comprender la
+ciencia en el sentido señalado antes por Bacon cuando enseñaba que no sólo
+deberíamos observar la naturaleza en vivo, sino que también deberíamos
+‘torcerle la cola al león’, esto es, manipular el mundo para aprender sus
+secretos.
+En su texto Representar e intervenir (1986), Hacking cuenta la historia
+de cómo se hizo realista de la siguiente manera: un amigo le describía cierto
+día un experimento realizado en la Universidad de Stanford para detectar la
+existencia de cargas eléctricas con valor igual a una fracción de la carga de
+un electrón. Se trataba de un experimento relacionado con la existencia de
+los quarks, los hipotéticos componentes últimos de la materia. La detección
+de los quarks dependía de la variación de las cargas de los electrones, y
+en ese sentido el electrón se estaba usando como herramienta para lograr
+nuevos efectos causales. Para modificar las cargas de los electrones se variaba
+gradualmente la carga eléctrica de minúsculas bolas de niobio. “Cuando
+Hacking le preguntó a su amigo cómo variaban la carga de las bolas de
+niobio, éste le contestó: ‘las rociamos (spray) con positrones para aumentar
+la carga o con electrones para disminuirla” (Dieguez, 1998, p.94). “A partir
+de ese día he sido un realista científico. Hasta donde a mí concierne, si se
+
+universitas philosophica 46 jun 2006
+
+realidad y razón en la práctica de la ciencia
+
+105
+
+puede rociar algo con ellos, entonces son reales” (Hacking, 1986, p. 41).
+El realismo al que se refiere Hacking es un realismo sobre entidades3, y
+su base parece ser, en un primer momento, un pragmatismo muy trivial. Pero
+no es así. Tampoco busca afirmar, en un sentido sociológico o psicológico,
+que el realismo es una actitud natural del científico. Sólo supone en términos
+sociales que los científicos tienden a ser realistas en la práctica de la ciencia.
+Hacking no trata de inferir de manera pragmática la realidad de los
+electrones a partir del éxito que se logra al emplearlos como fenómenos,
+pues con este tipo de argumentación pasaría lo mismo que sucede con la
+validez de las inferencias deductivas. “El argumento –podríamos llamarlo
+argumento experimental a favor del realismo- no es que infiramos la realidad
+de los electrones del éxito que obtenemos. No hacemos instrumentos y
+después inferimos la realidad de los electrones, como cuando ponemos
+a prueba una hipótesis, y luego creemos en ella porque pasó la prueba”
+(Hacking, 1986, p. 294).
+Según Hacking, la posición realista asumida por los científicos no se
+encuentra ligada necesariamente a posiciones epistemológicas definidas,
+sino a acciones y argumentaciones eficaces en la tarea de hacer avanzar la
+investigación, sin compromiso con ningún sentido de verdad4. El motivo
+fuerte para sostener este realismo es la capacidad de producir nuevos efectos
+causales a partir de las entidades supuestas por los científicos, por ejemplo,
+los electrones, y en la medida que se los utiliza para ampliar los alcances
+de la ciencia.
+Por ejemplo, Hacking muestra que los científicos suelen aceptar la
+realidad de una partícula no porque ésta se haya podido constatar con
+3. Hacking diferencia a grandes rasgos entre el realismo acerca de las teorías y el realismo
+acerca de las entidades: “El realismo acerca de las teorías dice que el objeto de las teorías es
+la verdad, y que a veces se acercan a ella. El realismo acerca de las entidades dice que los
+objetos mencionados en las teorías deberían existir realmente. El antirrealismo acerca de
+las teorías dice que nuestras teorías no deben ser creídas literalmente, y que son, en el mejor
+de los casos, útiles, aplicables y buenas para hacer predicciones. El antirrealismo acerca de
+las entidades dice que las entidades postuladas por las teorías son, en el mejor de los casos,
+ficciones intelectuales útiles” (Hacking, 1986, p. 11).
+4. Un realismo prudente actual no identificaría el éxito de una teoría con su verdad, ni
+defendería que el éxito implica verdad o la verdad éxito.
+
+universitas philosophica 46 jun 2006
+
+106
+
+juan carlos moreno
+
+pruebas empíricas, sino porque la idea de su existencia ha conducido a
+usos y aplicaciones como la construcción de aparatos muy sofisticados con
+buenas aplicaciones prácticas que sirven de base para el avance colonizador
+hacía nuevos conocimientos.
+Esta idea aparece de manera clara en planteamientos como el siguiente:
+Hubo un tiempo en que tenía sentido dudar de que hubiera electrones…
+Hubo un tiempo en el que la mejor razón que podíamos tener para
+pensar que hay electrones era su éxito en la explicación… Felizmente
+ya no tenemos que pretender que inferimos a partir del éxito en explicar.
+Prescott no explican los fenómenos con electrones. Ellos saben cómo
+usarlos… Los electrones no son maneras de organizar nuestros
+pensamientos o de salvar los fenómenos que han sido observados. Son
+maneras de crear fenómenos en algún dominio de la naturaleza. Los
+electrones son herramientas (Hacking, 1986, p. 292).
+
+Para mostrar cómo la determinación de la realidad en la práctica de la
+ciencia está mediada por las intervenciones de los científicos Hacking se
+refiere de manera especial al campo de la microscopía, donde son evidentes
+las intervenciones de los científicos en la observación, pero no es tan evidente
+una posición realista.
+Cualquier persona que haya intentado ver microorganismos a través del
+microscopio más común, es decir el óptico de refracción, sabe que para poder
+observar algo se requiere una serie de intervenciones sobre lo observado.
+Primero se deben separar los microorganismos de su medio, aislarlos para
+evitar la contaminación de la muestra y posiblemente cultivarlos. Luego,
+se les deben aplicar tintes y reactivos, para que sean visibles, porque por
+lo general son transparentes, y para que resalten frente otros posibles
+microorganismos. Pero esas sustancias son letales y pueden afectar su
+constitución. Adicional a lo anterior, la observación en microscopios está
+mediada por diferentes teorías. Esas teorías pueden tener que ver con la
+óptica, la fluorescencia, los rayos x, la acústica, la física atómica, etc., según
+el tipo de microscopio, dentro de mínimo diez tipos distintos.
+La imagen resultante en microscopía es un mapa de interacciones entre
+el espécimen y una radiación que crea imágenes. Sólo vemos a través del
+microscopio óptico cuando las interacciones físicas del espécimen y el rayo
+de luz son ‘idénticas’. Es más, las imágenes especializadas por lo general no
+pueden interpretarse sin la ayuda de una imagen adicional, la fotomicrografía,
+universitas philosophica 46 jun 2006
+
+realidad y razón en la práctica de la ciencia
+
+107
+
+sobre la que se superpone.
+En general estas distintas acciones, donde se logra la efectividad del uso
+del instrumento, muestran claramente que la observación en microscopía
+no es un proceso pasivo receptivo, sino activo, o de intervención sobre lo
+observado. En sentido estricto ‘no vemos a través de un microscopio; vemos
+con uno de ellos’ (Hacking, 1986, p. 236).
+Estas constataciones pueden conducir a postular posiciones no realistas.
+Es común pensar que mientras más se intervenga el objeto investigado es
+más difícil determinar en qué sentido es un objeto real o un artefacto. Pero
+Hacking muestra lo contrario, que las intervenciones son las que posibilitan
+que los científicos sean realistas.
+Ésta es la primera lección: se aprende a ver en el microscopio haciendo
+algo, no sólo mirando... La convicción de que una parte de la célula está
+allí y como la imagen la representa se refuerza, por decir lo menos, cuando
+utilizamos medios físicos para, por ejemplo, microinyectar un fluido
+precisamente en esa parte de la célula. Vemos cómo la pequeña aguja
+de vidrio —una herramienta que nosotros mismos hemos hecho bajo el
+microscopio— traspasa la pared de la célula. Vemos manar el lípido por
+el extremo de la aguja conforme le damos vuelta al tornillo micrométrico
+que empuja a un émbolo cabalmente macroscópico. ¡Maldición!. Inepto
+como soy, acabo de reventar la pared de la célula y tengo que intentarlo
+de nuevo con otro espécimen. El desprecio de John Dewey por la ‘teoría
+del conocimiento del espectador’ se aplica igualmente a la teoría del
+microscopio del espectador (Hacking, 1986, p. 219).
+
+Una posición no realista frente a la microscopía podría basarse en la
+afirmación de una importante carga teórica en la observación en este campo.
+Pero sobre este problema Hacking aclara lo siguiente:
+Puede parecer que todo enunciado acerca de lo que se ve con un
+microscopio está cargado de teoría: cargado con la teoría de la óptica o
+de otra radiación. No estoy de acuerdo. Se necesita teoría para hacer un
+microscopio. No se necesita teoría para usarlo… La práctica –me refiero
+en general a hacer, no a ver- desarrolla la habilidad para distinguir entre
+los artefactos visibles de la preparación o del instrumento, y la estructura
+real que se ve con el microscopio (Hacking, 1986, pp. 220-221).
+
+Así como algunas intervenciones hacen incierta la distinción entre lo
+
+universitas philosophica 46 jun 2006
+
+108
+
+juan carlos moreno
+
+real y lo construido en microscopía, otras intervenciones permiten aclarar las
+dudas. Por ejemplo, un procedimiento para dar confiabilidad a la observación
+lograda por el instrumento y para facilitar las mediciones, es el uso de
+enrejados en la microscopía. Ellos son cuadrículas dibujadas, etiquetadas y
+reducidas fotográficamente a nivel microscópico, que se emplean usualmente
+como fondos de contraste en las observaciones. Y de esta manera, lo que se
+produce macroscópicamente, se puede constrastar microscópicamente en
+diferentes tipos de aparatos con principios muy diferentes.
+Sé que lo que veo a través del microscopio es verídico porque nosotros
+hicimos el enrejado precisamente de esa manera. Sé que el proceso de
+manufacturación es confiable porque podemos verificar los resultados con
+el microscopio. Es más, podemos verificar los resultados con cualquier
+tipo de microscopio, empleando un proceso físico de entre una docena
+de procesos físicos no relacionados para poder producir la imagen.
+¿Podemos todavía pensar seriamente en la posibilidad de que todo esto
+no es más que una coincidencia gigantesca? ¿Es falso que el disco tenga,
+microscópicamente, la forma de un enrejado etiquetado? ¿Podría ser una
+conspiración gigantesca de trece procesos físicos sin ninguna relación
+entre ellos que un enrejado macroscópico se encogió en algo que no
+es un enrejado pero que cuando se observa por medio de doce tipos
+diferentes de microscopios todavía se mira como un enrejado? Para ser
+un antirrealista acerca del enrejado, tendría que invocarse a un espíritu
+maligno cartesiano de los microscopios (Hacking, 1986. pp. 232-233).
+
+Otro medio práctico o no teórico para distinguir entre los posibles
+productos artificiales calificados como hechos y los fenómenos reales,
+empleado en la microscopía es la similitud de los resultados. En el caso
+concreto de los denominados ‘cuerpos densos’, es decir, los cuerpos densos
+para los electrones, que aparecen en un microscopio electrónico de baja
+potencia, sin ninguna preparación o teñido, por ejemplo, los puntos pequeños
+que se revelan en los glóbulos rojos, se utiliza la técnica alternativa del
+teñido fluorescente para observar esos mismos cuerpos con el microscopio
+de fluorescencia, de manera coincidente con la micrografía lograda con el
+microscopio electrónico.
+La duda sobre si esos cuerpos son artilugios producidos por el
+microscopio electrónico se resuelve tras lograr una coincidencia en su
+observación con el empleo de otra técnica y otro instrumento. Cuando los
+mismos resultados, o las imágenes correspondientes al mismo objeto se
+
+universitas philosophica 46 jun 2006
+
+realidad y razón en la práctica de la ciencia
+
+109
+
+ven en las dos micrografías, elaboradas desde dos instrumentos construidos
+con principios físicos diferentes, o con aparatos utilizados en situaciones
+diferentes, los científicos no dudan en asignarle un carácter real a lo
+observado.
+Dos procesos físicos —la transmisión electrónica y la reemisión
+fluorescente— se usan para detectar los cuerpos. Estos procesos no tienen
+particularmente nada en común entre ellos. Son esencialmente partes de la
+física no relacionadas. Sería una coincidencia ridícula si, una y otra vez,
+dos procesos físicos totalmente diferentes produjeran configuraciones
+visuales que fueran, no obstante, artefactos de esos procesos físicos y
+no estructuras reales de la célula (Hacking, 1986, p. 230).
+3. Aspectos filosóficos de la propuesta realista de Hacking
+
+Las implicaciones filosóficas amplias del realismo planteado por Hacking
+se identifican en las siguientes concepciones sobre la experimentación, la
+observación, la estabilidad y el desarrollo de la ciencia.
+
+3.1. La observación científica y la carga teórica
+
+En el texto Representar e intervenir Hacking cuestiona, a través del
+análisis de muchos casos, la idea ya asumida de que la experimentación es
+completamente ciega y determinada siempre por la teoría. El muestra que
+los experimentos no sólo son significativos si están precedidos por una idea,
+o si se pone a prueba una teoría acerca de los fenómenos bajo escrutinio.
+Tanto la teoría como el experimento no son aspectos uniformes en la
+ciencia. La experimentación tiene muchas vidas propias y sus relaciones
+con la teoría no se pueden entender de manera unilateral: “Después de esta
+andanada baconiana de ejemplos de las diferentes relaciones entre la teoría
+y el experimento, no parece que pueden hacerse enunciados generales al
+respecto… cualquier visión unilateral del experimento está seguramente
+equivocada” (Hacking, 1986, p. 194).
+Pero no se trata de defender una ingenua prioridad e independencia
+de la experimentación sobre la teoría, sino de abrir la gama de posibles
+relaciones entre experimentación y teoría, y mostrar cómo es posible tanto la
+determinación teórica de los experimentos, como el desarrollo experimental
+preteórico y el papel estimulante de los experimentos con respecto a las
+teorías.
+universitas philosophica 46 jun 2006
+
+110
+
+juan carlos moreno
+
+A este respecto afirma Hacking:
+No pretendo, pues, sostener que el trabajo experimental existe
+independientemente de la teoría. Esto sería el trabajo ciego de aquellos
+“simples empíricos” de los que Bacon se burlaba. Lo que sigue siendo
+cierto es que una gran cantidad de investigación fundamental precede a
+cualquier teoría importante.
+A veces hay trabajos experimentales profundos que la teoría genera en su
+totalidad. Algunas teorías importantes salen del experimento preteórico.
+Algunas teorías languidecen por falta de conexiones con el mundo real,
+mientras que algunos experimentos no tienen nada que hacer por falta de
+teoría. Hay también familias felices, en las que teorías y experimentos
+provenientes de diferentes direcciones se encuentran (Hacking, 1986,
+p. 87).
+
+Con respecto a la observación científica Hacking cuestiona la versión
+común en la filosofía de la ciencia de la carga teórica, y muestra cómo su
+desarrollo en la práctica experimental supone también una carga práctica.
+Sus anotaciones muestran cómo la experimentación corresponde en menor
+grado con la observación diseñada y sistemática y con la observación cruda,
+y en mayor grado con la atención persistente de aspectos raros o inesperados.
+La información sistemática de lo que se ve no parece ser la más valiosa
+en la práctica experimental. Más bien, la observación se muestra como una
+habilidad práctica que se adquiere con entrenamiento, y en este sentido
+de manera previa a una carga teórica la observación parece cargada por
+una práctica competente. Esta constatación ha sido obstaculizada por dos
+prejuicios filosóficos.
+Varios hechos de sentido común acerca de la observación han sido
+distorsionados por dos modas filosóficas. Una es la moda de lo que
+Quine llama el ascenso semántico… La otra consiste en la dominación
+del experimento por la teoría. La primera dice que no debemos pensar
+acerca de la observación, sino acerca de enunciados observacionales…
+La segunda dice que cada enunciado observacional está cargado de teoría
+(Hacking, 1986, p. 195).
+
+En realidad, las observaciones que proporcionan los datos para la
+contrastación de teorías desempeñan un papel relativamente pequeño en la
+mayoría de los experimentos. “Muchas veces la tarea experimental… no es
+
+universitas philosophica 46 jun 2006
+
+realidad y razón en la práctica de la ciencia
+
+111
+
+tanto observar e informar, sino construir una pieza de equipo que muestre
+un fenómeno de una manera confiable” (Hacking, 1986, p. 195).
+
+3.2. Autojustificación y estabilidad en la ciencia experimental
+
+Estos planteamientos sobre la ciencia experimental se transforman en
+Hacking en una filosofía de la ciencia general, en los textos posteriores a
+su obra: Representar e intervenir. Y estos planteamientos filosóficos son
+muy similares a los de otros autores que estudian la práctica científica,
+específicamente Pickiring, Latour y Galison.
+Para Hacking la práctica experimental tiene una vida propia determinada
+por actividades específicas que se conservan y autojustifican hasta representar
+una especie de subcultura de la ciencia, en condiciones de buena estabilidad.
+A diferencia de Kuhn y de la inmediata filosofía de la ciencia post-kuhniana,
+los distintos aspectos propios de la práctica científica no se limitan a mostrar
+las inestabilidades y discontinuidades en la ciencia, sino al contrario, los
+factores que ofrecen estabilidad y continuidad.
+Desde el punto de vista de Pickering (Cfr. Pickering, 1992), una idea
+que ha sido adecuadamente fundamentada en los estudios de la ciencia
+de los autores mencionados, es que la práctica podría verse como un
+proceso de moldeamiento de elementos culturales existentes, determinado
+fundamentalmente por la acción, más que por la representación. Es una
+extensión creativa inicialmente abierta que luego experimenta un proceso de
+cierre. Y ese cierre implica un proceso de estabilización que constantemente
+se invisibiliza después de los logros materiales, acuerdos o consensos.
+En concreto, acciones como el manejo y la administración de la
+información, el desarrollo de aparatos, las gestiones que se hacen para lograr
+acuerdos en las controvesias, etc., van moldeando de manera esencial el
+desarrollo de la ciencia de manera abierta, hasta un punto el cual se asumen
+los avances conceptuales y materiales como algo ya realizado, o adquirido
+y se invisibiliza en lo que Latour llama la caja negra (Latour, 2003), que
+esconde todas las acciones implícitas en lo logros científicos, permitiendo
+que la atención se coloque sólo en las entradas y las salidas.
+Pero este moldeamiento no sólo es un proceso de determinación,
+sino claramente un proceso creativo. En él se producen asociaciones
+creativas intencionales, a través de las cuales se genera una dialéctica
+universitas philosophica 46 jun 2006
+
+112
+
+juan carlos moreno
+
+de acomodaciones y resistencias, en relación con un hecho empírico, un
+instrumento científico, etc. (Pickering, A. Stephanides, 1992, p. 141).
+Las resistencias provocan la apertura hacía más acciones y las
+acomodaciones permiten cierres parciales que sirven de piso para nuevas
+acciones.
+A través de este proceso activo toman forma simultánea o se co-producen
+tanto la teoría o el aporte conceptual, como el fenómeno empírico.
+Hacking, Latour, Pickering y Galison hacen importantes aportes para
+comprender ese proceso de moldeamiento. Latour y Pickering lo muestran en
+relación con acciones que tienen un claro sentido social. Hacking lo muestra
+sin el supuesto construccionista de Latour y Pickering. Y Galison entiende
+de manera más amplia ese moldeamiento en el sentido de la conformación
+de culturas científicas.
+Para Hacking no existe un misterio en el acceso empírico, o para
+ponerlo de otra forma, los hechos y las conceptualizaciones son construidos
+conjuntamente en un proceso mutuo de ajuste y estabilización. Pero tampoco
+existe un misterio en las determinaciones sociales. “Los aspectos materiales
+de los experimentos (ej: los aparatos, los instrumentos, las técnicas) son
+más centrales en la estabilización de la ciencia que lo que se ha escrito en
+la tradición de los estudios sociales de la ciencia” (Hacking, 1992b, p. 32).
+Hacking se concentra en la manera como en la ciencia se producen los
+avances, más desde el punto de vista material de las acciones realizadas por
+los científicos, que desde el punto de vista representacional o social. En la
+ciencia podría hablarse de avances y continuidades más por la acumulación
+y estabilización de productos materiales que de productos teóricos.
+Según Hacking, en su artículo: The Self – Vindication of the Laboratory
+Sciences (Hacking, 1999), hay un número de razones que da la apariencia
+de estabilidad en la ciencia, independientes de las tesis metafísicas más
+radicales. Y entre ellas muestra tres: primero, el anacronismo con el que
+asumimos logros de la ciencia, por ejemplo, fenómenos de laboratorio,
+técnicas o metodologías producto de teorías ya obsoletas, que a pesar
+de todo se sostienen y se siguen enseñando, y que suscitan la idea de un
+desarrollo constante de la ciencia. En los ejemplos colocados por Hacking en
+
+universitas philosophica 46 jun 2006
+
+realidad y razón en la práctica de la ciencia
+
+113
+
+su texto: Representar e intervenir, se constata que dos o tres observaciones
+experimentales construidas con base en teorías o técnicas heterogéneas
+pueden ser exactamente idénticas. Puede haber una intercorrespondencia
+entre representaciones científicas tecnológicamente y heterogéneamente
+generadas y ello es previo a toda formulación enunciativa o lingüística de
+los hechos.
+Segundo, un sentido seguro de estabilidad surge del hecho de que
+la práctica científica se parece a una cuerda con muchos nudos. Un
+nudo se puede deshacer pero los otros sobreviven intactos de manera
+irreflexiva. puede existir un quiebre en las tradiciones teóricas que tiene
+pocos efectos en los instrumentos que fueron usados o en las formas
+como fueron usados. El gran sentido de continuidad a través del cual
+las mutaciones teóricas resultan de los hechos, de los instrumentos y de
+las prácticas experimentales pueden continuar largamente no afectados
+por los cambios en las teorías (Hacking, 1999, p. 242).
+
+La tercera está relacionado con varios elementos de la ciencia que
+Hacking refiere a lo que Latour llama la caja negra: sistemas de operación
+de símbolos, piezas estándar, insumos, aparatos adquiridos a compañías, o
+arrendados, o traídos de otros laboratorios, antigua investigación militar,
+etc., cada una de las cuales se encuentra relacionado con contextos y
+teorías distintas específicas, e implica conocimientos preestablecidos no
+conocidos por los científicos. Si cada pieza se creara de la nada no sólo
+la labor de los científicas sería más complicada, sino que la ciencia sería
+menos estable. Ello implica una infraestructura comercial y semicomercial
+previa a la ciencia. Esos elementos de la caja negra no se pueden cambiar
+constantemente por razones económicas o por motivos técnicos relacionados
+con las competencias necesarias para usarlos, por lo cual, la investigación
+futura se ve determinada por la dotación existente de instrumentos.
+La estabilidad señalada por Hacking sólo muestra los procesos a través
+de los cuales la ciencia se ve más como realización, que como representación
+o resolución de problemas. Y no pretende con esta posición sustentar, en
+principio, algún supuesto epistemológico clásico: “Este texto no es un elogio
+a la estabilidad. No implica que la estabilidad sea una cosa buena. No admira
+la estabilidad. Sólo la observa y trata de explicarla (Hacking, 1999, p. 238).
+El proceso general a través del cual en la ciencia experimental se
+consolida la estabilidad lo denomina Hacking ‘autojustificación’, y consiste
+
+universitas philosophica 46 jun 2006
+
+114
+
+juan carlos moreno
+
+en una especie de retroalimentación entre las teorías y las prácticas: “la
+ciencia del laboratorio estable surge cuando las teorías y los equipamientos
+de laboratorio evolucionan de tal manera que se ajustan unas a otras y se
+autojustifican mutuamente” (Hacking, 1999, p. 241).
+Pero es un proceso de ajuste mutuo más amplio que el que ocurre entre
+la teoría y la observación: “…pero esta es una mísera cuarta parte de la
+verdad. Hay un juego entre muchas cosas: datos, teorías, experimentos,
+fenomenología, equipamiento, procesamiento de datos” (Hacking, 1999, p.
+240). Este proceso no debe entenderse de manera limitada como una teoría
+coherentista de la verdad: “…¿Una teoría coherentista de la verdad? No,
+una teoría coherentista de pensamientos, acciones, materiales y marcas”
+(Hacking, 1999, p. 243).
+Las prácticas con los instrumentos tienen un papel fundamental dentro
+de este proceso de estabilización:
+El proceso de modificación del funcionamiento de los instrumentos
+—tanto materialmente (los mejoramos) como intelectualmente
+(redescribimos lo que hacen)— provee el pegamento que mantiene
+nuestros mundos material e intelectual unidos. Esto es lo que estabiliza
+la ciencia (Hacking, 1999, p. 244).
+
+En sus investigaciones psiquiátricas contenidas en sus textos: Rewritting
+the soul (1995) y Mad travelers (1998), Hacking muestra cómo las prácticas
+clasificatorias contribuyen al moldeamiento de formas de pensamiento y de
+realidad estables:
+Façonner les gens es de hecho un intento por expresar en francés no
+‘Hacer gente’ (Making People) sino Inventar/construir gente (Making
+up people). Este es uno de los proyectos en los que llevo veinte años
+trabajando... El curso es en parte teórico y también da un número de
+ejemplos de clases de personas. Por encima de todo, me interesa: (i)
+cómo nuevas clasificaciones de personas crean nuevas posibilidades de
+elección y de acción, de quién o qué es uno y qué puede uno hacer; (ii)
+lo que las nuevas clasificaciones les hacen a las personas clasificadas, y
+como también cambian por ser así clasificadas; (iii) cómo esos mismos
+cambios en las personas cambian nuestras teorías de las clasificaciones.
+Esto es lo que llamo un efecto de bucle (Álvarez R., A., 2002, pág. 56).
+
+Las clasificaciones no se encuentran aisladas ni se crean de la nada,
+universitas philosophica 46 jun 2006
+
+realidad y razón en la práctica de la ciencia
+
+115
+
+sino que están insertas en contextos sociales, a los cuales Hacking llama
+matrices. Las matrices incluyen un complejo de instituciones, artículos
+de periódicos, revistas, jurados, procedimientos, papeles, etc. Dentro de
+una matriz se constituyen no sólo las ideas, los conceptos, las clases, sino
+también las personas. Pero este proceso generativo que identifica en las
+investigaciones psiquiátricas, lo adjudica también Hacking al campo de las
+investigaciones de las ciencias naturales.
+
+3.3. Los estilos de razonamiento
+Hacking propone el concepto de los ‘Estilos de razonamiento científico’ para
+completar el análisis de cómo el pensamiento se relaciona efectivamente con
+las prácticas y con el mundo. El ajuste entre pensamiento y mundo requiere
+pensar no sólo lo que sucede en el mundo de la materialidad de las prácticas
+y de una serie de productos que emergen de estas prácticas, sino también
+lo que sucede en el mundo del pensamiento, para dar cuenta de nuestras
+nociones de objetividad, de verdad y de racionalidad. La configuración
+mutua entre el conocimiento y la realidad requieren del aporte activo mutuo
+no sólo de las prácticas, sino también del pensamiento.
+Según Mercedes Iglesias (2003), este concepto le permite a Hacking
+hacer un análisis racional de la ciencia de manera equivalente a otros filósofos
+de la ciencia que emplean conceptos como los de Paradigma, Programas de
+investigación, Thematas, etc., pero con la ventaja de ser un concepto histórico
+y que no supone una concepción totalizante de la ciencia.
+Esto implica que los estilos son, en cierto modo, un regreso a los temas
+de la racionalidad. En definitiva, los paradigmas de Kuhn o los programas
+de investigación de Lakatos suponen una propuesta filosófica desde la
+racionalidad. Sin embargo, si bien esto es cierto, Hacking aspira a que sea
+una racionalidad que trascienda las dimensiones teóricas y que incluya
+las prácticas como fundadoras (Iglesias, 2003, p. 241).
+
+Se trata de un concepto lógico, y cómo el mismo término indica
+plantea no un modelo de racionalidad estándar para la ciencia, sino una
+diversidad de modalidades de razonamiento históricamente constituidas, a
+través de las cuales se posibilitan las condiciones de verdad, objetividad y
+racionalidad del conocimiento científico, no como cualidades epistémicas
+a priori, sino como conquistas históricas del pensamiento que ayudan a
+
+universitas philosophica 46 jun 2006
+
+116
+
+juan carlos moreno
+
+avanzar la ciencia.5 Mientras las prácticas se ‘autojustifican’, los estilos de
+razonamiento se ‘autoautentican’, para permitir ciertos sentidos operativos
+de verdad, objetividad y racionalidad en la ciencia.
+La auto-justificación es un concepto material, pertinente a la forma
+en que las ideas, las cosas y las marcas se ajustan mutuamente [...] la
+autoautentificación de los estilos de razonamiento la utilizo para significar
+la forma en la que un estilo de razonamiento genera las condiciones de
+verdad para las proposiciones mismas que son razonadas utilizando ese
+estilo, [...] es un concepto lógico (Hacking, 1999, p. 236).
+
+Hacking se basa en Crombie (1994) para definir el sentido de este
+concepto y la variedad de estilos de pensamiento presentes en la cultura
+occidental. A partir de dos estilos propuestos por este autor, específicamente
+el de la experimentación y el de la construcción de modelos analógicos,
+construye lo que denomina el estilo de laboratorio, uno de los estilos más
+importantes y estables, a su juicio, en el pensamiento científico occidental.
+De esta forma, en las intervenciones de los científicos no sólo advienen
+objetos materiales, sino también modalidades de pensamiento a través de
+una circularidad fundante entre las prácticas y los pensamientos: en las
+prácticas se logra una estabilidad que aporta objetividad, que a su vez valida
+y se validad desde un estilo, que permanece estable.
+Con el empleo de este concepto logra Hacking una justificación de
+cómo en la práctica de la ciencia adviene cierto sentido de objetividad, de
+verdad y de racionalidad, sin necesidad de definir teóricamente el sentido
+de esos aspectos y sin presuponer una concepción monolítica de la ciencia
+y del mundo:
+Yo sostengo que no hemos decidido lo que deba contar como objetividad,
+ni que hemos descubierto lo que es. Me interesa el modo en que la
+objetividad adviene (Hacking, 1982, p. 56).
+¿A qué son las leyes y las teorías verdaderas? No al mundo, no reflejan
+el mundo, son verdaderas de los fenómenos medibles y eso es el mundo
+
+5. Así como sucede en la mayoría de sus planteamientos, en estas ideas se evidencia
+claramente la influencia de Foucault.
+
+universitas philosophica 46 jun 2006
+
+realidad y razón en la práctica de la ciencia
+
+117
+
+en el cual viven nuestras teorías [...] Hay restricciones que provienen del
+mundo, pero las restricciones no son las leyes que ya estaban ahí, antes
+de que hiciéramos los fenómenos (Hacking, 1992b, p. 52).
+
+Se trata de pensar la ciencia desde la estabilidad de sus prácticas y desde
+la interconexión de algunos aspectos lógicos relacionados con esas prácticas,
+a través de cuales se estabiliza también el conocimiento, sin presuponer
+una imagen unívoca de la ciencia o del mundo, o la definición a priori de
+cualidades epistémicos, sobre la base de algún fundamento. Como lo expresa
+Mercedes Iglesias:
+La filosofía de la ciencia ha querido mostrar la ciencia como un
+estereotipo monolítico…La actual imagen de la ciencia, además de
+aceptar la diversidad y la variedad, debe reconocer que existen cosas
+que se comparten sin conmensurabilidad, sin fundamentos, pero con
+estabilidad…Se ha transformado en un dominio en el que puede existir
+una acción coherente con una imagen del mundo desunificado (Iglesias,
+2003, p. 236).
+
+En general, Hacking no renuncia a las pretensiones filosóficas básicas
+sobre la ciencia en el sentido de considerar que ella, desde el punto de vista
+de sus prácticas, sigue siendo una actividad objetiva y racional, a pesar y
+en virtud de encontrarse determinada social y culturalmente de manera
+fuerte, como señalan los Estudios Sociales de la ciencia. Dentro de esta
+concepción tanto la realidad, como la objetividad y la verdad son aspectos
+independientes de las argumentaciones teóricas a priori, y se construyen en el
+tiempo a través de acciones y estilos de razonamiento que se autojustifican
+y acumulan gracias a su estabilidad.
+
+3.4. La ‘creación’ de fenómenos
+
+Uno de los planteamientos que han causado más polémica entre los
+hechos por Hacking es la afirmación de que la práctica experimental “crea
+fenómenos”, por lo extraño que en las ciencias empíricas es el término
+‘crear’, que insinúa alguna especie de posición constructivista fuerte. Sin
+embargo, conciente de ello, Hacking emplea en su sentido literal el término
+‘crear’, pero en el marco de una posición realista. ¿Cómo se puede hablar de
+‘crear fenómenos’ en el marco de un realismo? La respuesta a esta pregunta
+conduce a una comprensión más clara del realismo propuesto por Hacking
+y de sus implicaciones ontológicas.
+
+universitas philosophica 46 jun 2006
+
+118
+
+juan carlos moreno
+
+En el texto Representar e intervenir Hacking es enfático en afirmar que
+la práctica experimental crea fenómenos:
+Una de las funciones de los experimentos se desprecia tanto que ni
+siquiera le hemos dado un nombre. Yo la llamo la creación de fenómenos.
+Tradicionalmente se dice que los científicos explican los fenómenos que
+descubren en la naturaleza. Yo sostengo que comúnmente los científicos
+crean los fenómenos que posteriormente se convierten en las piezas
+centrales de la teoría (Hacking, I., 1986, p. 249).
+
+Para buena parte del pensamiento científico moderno los fenómenos se
+explican, pero no se crean, mientras para el pensamiento científico de la baja
+Edad Media los fenómenos se salvaban. Este último sentido de ‘salvar los
+fenómenos’ ha sido rescatado por Duhem y van Fraseen, para dar a entender
+que el quehacer científico implica producir sistemas de cálculo que encajan,
+o se adecuan a las regularidades, sin suponer una realidad subyacente. Frente
+al antirrealismo supuesto en la posición de estos autores, Hacking sostiene
+que el hecho de afirmar que la ciencia experimental crea fenómenos no
+implica, como podría suponerse, una especie de idealismo, sino al contrario,
+sirve de argumento para un realismo científico fuerte:
+Tales autores nos enseñan que una teoría nos proporciona un formalismo
+para darle cierto orden a los fenómenos, pero la teoría, en tanto se extiende
+más allá de los fenómenos no es ninguna indicación de una realidad
+subyacente. Dan por sentado que los fenómenos son descubrimientos
+del observador y del experimentador. ¿Cómo puedo decir, entonces,
+que una función principal del experimento es la creación de fenómenos?
+¿Estoy proponiendo algún tipo de idealismo último en el que hacemos los
+fenómenos que incluso Duhem toma como ‘dados’? Por el contrario, la
+creación de los fenómenos favorece en gran medida un realismo científico
+fuerte (Hacking, I., 1986, p. 249).
+
+Hacking toma el término ‘fenómeno’ en el sentido corriente como la
+usan los físicos, y de una manera distinta a la tradición filosófica moderna.
+Para Kant el fenómeno es lo que el sujeto percibe a través de la facultad de
+la sensibilidad. Para los físicos un fenómeno más que una experiencia del
+sujeto es, por lo general, un suceso o proceso de un cierto tipo que ocurre
+en circunstancias definidas, a veces regularmente, o a veces como suceso
+único, y que se puede organizar frecuentemente en forma de ley o en su
+lugar, significar algo excepcional. Explícitamente Hacking lo expresa así:
+
+universitas philosophica 46 jun 2006
+
+realidad y razón en la práctica de la ciencia
+
+119
+
+“… un fenómenos para mí, es algo público, regular, posiblemente en forma
+de ley, pero tal vez excepcional” (Hacking. 1986. p. 251).
+Para Hacking las palabras fenómeno y efecto deberían designar lo
+mismo, si se entiende la práctica experimental como un proceso activo,
+interventor y no pasivo, o sólo perceptivo. Y en ese sentido los fenómenos
+son producidos por las prácticas interventoras en condiciones especiales de
+laboratorio y emergen sobrepasando lo que se manifiesta en la naturaleza,
+de manera no intervenida. Los fenómenos son cosas como el fenómeno o
+efecto Faraday, el efecto fotoeléctrico, el efecto Compton, el efecto Zeeman,
+etc. Algunos de ellos bautizados con los nombres de quienes los hicieron
+emerger por primera vez gracias a sus prácticas interventoras.
+Los fenómenos y los efectos son cosas del mismo tipo: regularidades
+valiosas discernibles. Las palabras ‘fenómenos’ y ‘efecto’ pueden servir
+muchas veces como sinónimos, pero apuntan en direcciones opuestas. Los
+fenómenos nos recuerdan, en ese semiconsciente depósito del lenguaje,
+sucesos que pueden ser registrados por el observador bien dotado que
+no interviene en el mundo, pero que mira las estrellas. Los efectos nos
+recuerdan a los grandes experimentadores que le han dado su nombre
+a los efectos: los hombres y las mujeres, los Compton y Curie, que
+intervinieron en el curso de la naturaleza, para crear regularidades que,
+por lo menos al principio, pueden considerarse regulares (o anómalas)
+sólo en contraste con la teoría (Hacking 1986, p. 254).
+
+A través de su concepción sobre la creación de los fenómenos
+científicos, Hacking se distancia tanto de los representacionalistas y
+esencialistas, como de los idealistas y construccionistas. Pone en cuestión
+las nociones esencialistas de la naturaleza, que suponen que la naturaleza
+viene estructurada en hechos ya establecidos y le otorga un predominio a
+la práctica instrumental y experimental en la conformación de los atributos
+ontológicos de los hechos. Rechaza tanto la idea de un mundo dado, como
+la imagen pasiva del conocimiento elaborado en la ciencia.
+El laboratorio con su capacidad de aislar, reproducir eventos en diferentes
+circunstancias y controlar las variables, logra crear fenómenos nuevos que
+estaban lejos de las manifestaciones producidas espontáneamente en la
+naturaleza. El fenómeno adviene de manera estable pero en un contexto
+donde se mantiene también estables los mecanismos, los instrumentos, las
+técnicas, los sistemas.
+
+universitas philosophica 46 jun 2006
+
+120
+
+juan carlos moreno
+
+El asunto de fondo es que lo que existe en la práctica experimental
+adviene a la existencia mediante las prácticas que lo posibilitan, desde los
+presupuestos de una ontología no esencialista. La ciencia es una diversidad
+de prácticas que posibilitan el advenimiento de una diversidad de fenómenos,
+con una ontología estable, aunque no unificada, ni esencial.
+Mientras la actividad teórica se conecta a la realidad dirigiendo su
+atención a las características epistemológicas de la teoría o del modelo, la
+actividad experimental busca una especie de simetría experimental, que
+se da cuando diferentes prácticas, relacionadas con diferentes fenómenos,
+producen una síntesis estable en términos ontológicos.
+Hacking reconoce que la concepción de ciencia que plantean los
+estudios de la práctica científica exigen la construcción de una metafísica
+no absolutista y esencialista, sino descriptiva, que de cuenta de cómo en la
+práctica estructuramos el pensamiento y el mundo, pero sin dar por sentado
+una concepción ya definida de ambos.
+A través de las prácticas experimentales e instrumentales se producen
+nuevas realidades en donde se articulan el carácter artificial del efecto
+producido y el carácter natural espontáneo (en lugar de real) de los hechos
+científicos. Sin embargo, el fenómeno no es exactamente un artefacto
+naturalizado en los términos de una cultura experimental específica, como
+lo hacen ver Heelan y Knorr Cetina (Knorr Cetina, 1981).
+Hacking acepta que el fenómeno científico viene a ser un híbrido
+entre naturaleza y cultura, entre lo natural y lo artificial y que ese carácter
+artificial remite irremediablemente a una cultura, porque los laboratorios
+y los instrumentos son signos materiales de una cultura. Pero no admite
+que el fenómeno científico sea un fenómeno cultural, en la medida que le
+confiere al fenómeno un carácter ontológico, aunque no dado, sino como
+algo que adviene, se erige en las prácticas materiales y culturales. Hacking
+coincide con los construccionistas al afirmar que los fenómenos son tanto
+naturales como artificiales, pero difiere de ellos al plantear que fuera de las
+posibilidades de una distinción, existen criterios para determinar su carácter
+real en sentido ontológico. La determinación de su realidad no depende
+de la distinción, sino de aspectos pragmáticos como los efectos causales
+producidos por ellos.
+
+universitas philosophica 46 jun 2006
+
+realidad y razón en la práctica de la ciencia
+
+121
+
+Latour (1993) y Haraway (1989) denominan estos híbridos entre
+naturaleza y cultura, o entre lo natural y lo artificial, como ‘parejas
+ilegítimas’, ‘monstruos’ o ‘cuasi objetos’. Ordóñez (2001) los denomina
+‘fenomenotecnia’. Pero Hacking no deja de llamarlos fenómenos reales.
+Para él, se puede admitir la incidencia de la cultura en las prácticas
+experimentales sin concluir que es la cultura la que convierte a algo en un
+fenómeno de la naturaleza. El carácter artificial de un objeto o efecto no
+impide por tanto que sea objetivo. Según él,
+La palabra ‘artificial’ es ambigua. En su primer sentido, tenemos que
+significa ‘producido por el hombre’, algo que no ocurre naturalmente.
+En el segundo, tenemos ‘hecho por imitación a un producto natural,
+especialmente como un sustituto, no genuino’; crema artificial (Hacking,
+1988, p. 285).
+
+Planteamientos como los de Latour y Woolgar (Latour y Woolgar. 1995),
+que llevan a pensar, por ejemplo, que la hormona TRH es una construcción
+social o una realidad artificial, al rechazar el carácter ‘objetivo’ del fenómeno
+científico, se están comprometiendo indirectamente con un esencialismo
+como el que se sostiene en la distinción aristotélica entre lo natural y lo
+artificial. Su negación tiene sentido desde este tipo de presupuestos, pero
+la práctica científica encaja con otro tipo de ontología donde no riñen lo
+natural y lo producido por las intervenciones humanas.
+Los argumentos de Hacking parecen ser más fieles que los de los
+construccionistas con respecto a lo que sucede en la práctica interventora de
+la ciencia, al mostrar el carácter tanto producido, como real de los efectos
+científicos, desde el punto de vista de una ontología que nos los hace
+excluyentes. Sin embargo, sus argumentos no avanzan suficientemente en
+la tarea de definir con claridad esa ontología.
+
+3.5. La distancia crítica frente al construccionismo y el sentido del
+realismo-nominalismo en Hacking
+E n varias de las ideas defendidas por Hacking, sobre todo en sus
+planteamientos sobre la creación de los fenómenos que se produce en la
+ciencia experimental y en sus investigaciones psiquiátricas, queda la duda
+sobre su posición frente a la perspectiva construccionista. Es preciso,
+universitas philosophica 46 jun 2006
+
+122
+
+juan carlos moreno
+
+entonces, abordar directamente las opiniones que Hacking tiene sobre el
+construccionismo, pues el establecimiento de esos linderos conduce a varias
+aclaraciones sobre su propuesta realista.
+Hacking en reiteradas ocasiones distancia sus ideas de una posición
+construccionista, por lo menos en el sentido del construccionismo de
+Latour, Woolgar y Pickering.6 En su texto: La construcción social de
+qué (Hacking. 2000) coloca en discusión sus planteamientos en relación
+con el construccionismo de los sociólogos. Su insistencia en el estudio
+de la práctica experimental hace que tenga puntos de coincidencia con
+los construccionistas, sobre todo con respecto al carácter no dado, sino
+construido del fenómeno científico.
+Pero critica a los construccionistas el idealismo latente en su oposición
+al realismo y en su insistencia en el carácter construido de los fenómenos
+científicos. Cuando algunos construccionistas enfatizan en la construcción
+social del hecho científico desde un punto de vista anti-realista, su posición
+deja abierta la puerta hacia algún tipo de idealismo. Al rechazar el realismo
+metafísico y el esencialismo en la ciencia, desde su postura construccionista,
+no pueden evitar el deslizamiento hacía algún idealismo en la medida que
+pretenden un carácter legítimo, general y normativo para sus planteamientos.
+Frente al construccionismo Hacking prefiere ser a la vez realista y
+nominalista. En su último libro, Historical Ontology (Hacking, 2002) su
+posición la autodenomina ‘nominalismo dinámico’ o ‘realismo dialéctico’.
+El es nominalista en oposición al realismo científico metafísico y es realista
+en oposición al idealismo. Defiende una posición nominalista, pero es realista
+y anti-idealista; admite tesis construccionistas, pero en ningún momento
+acepta la suficiencia de sus conclusiones en cuanto al funcionamiento de
+la ciencia. Es nominalista porque evita hablar de la realidad y de la ciencia
+como un todo y prefiere la referencia a aspectos individuales, en lugar de
+la referencia a aspectos de clases. Su realismo es dialéctico porque salva
+una opción realista sobre las entidades, a la vez que cuestiona las posturas
+realistas teóricas para la ciencia.
+6. Hacking propone ‘constructivismo’ para las matemáticas, ‘construccionalismo’ para los
+proyectos filosóficos que van desde Russell hasta Goodman y Quine, y ‘construccionismo
+social’ para los planteamientos comúnmente sostenidos por sociólogos del conocimiento
+científico como Bloor, Latour, Woolgar, Pickering, etc.
+
+universitas philosophica 46 jun 2006
+
+realidad y razón en la práctica de la ciencia
+
+123
+
+Para Hacking el aporte más importante del construccionismo social ha
+sido su capacidad para criticar el status quo en el conocimiento científico
+o aquello que se considera inevitable, incuestionable —una variable del
+esencialismo—, con respecto a la ciencia y la realidad. Esta posición ha
+permitido el ‘desenmascaramiento’ de las ideas al mostrar no su falsedad,
+sino su función extrateórica. Y con ello ha abierto el análisis de la ciencia
+y lo ha ligado necesariamente a los aspectos contextuales. Sin embargo, el
+construccionismo ha sido muy poco efectivo en la tarea de mostrar cómo
+se constituyen mutuamente el conocimiento y la realidad.
+Para Hacking este reto implica la integración de otros aportes adicionales
+a los que ofrecen los estudios sociales de la ciencia, desde los cuales ha
+surgido la posición construccionista. Para entender cómo se constituyen
+mutuamente el conocimiento y la realidad es necesario conectar los aportes de
+los estudios sociales con algún tipo de ontología y con algo que en principio
+ha denominado los aspectos braudelianos del conocimiento, es decir, ‘las
+características relativamente permanentes, crecientes, automodulables,
+autorrevisables de lo que llamamos ciencia’7. Hacking busca un enfoque
+que sea a la vez metafísico y social: que haya sido originado a través de
+una serie de interacciones sociales, pero que traspase la práctica concreta y
+permita establecer una cierta generalidad. En sus palabras:
+Es una tarea filosófica de nuestro tiempo conectar: 1) Las dimensiones
+sociales del conocimiento, del tipo planteado por D. Bloor y B. Barnes en
+Edimburgo, pero ahora bastante comunes en Europa, especialmente en el
+Reino Unido. 2) La metafísica, particularmente los debates que resultaron
+de las diferentes posiciones revisadas de H. Putnam, empezando con el
+realismo científico fundado en su teoría de la referencia, pero siguiendo
+con su rechazo de semejante realismo y su defensa actual del realismo
+interno, el foco de atención reciente, en los Estados Unidos. 3) Los
+aspectos Braudelianos de la ciencia, esto es, el lento movimiento a largo
+alcance, persistente y los aspectos acumulativos para el crecimiento del
+conocimiento (Hacking, 1992a. p. 130).
+
+Sin embargo, el gran reto propuesto por Hacking señala un camino para la
+
+7. El término ‘aspectos braudelianos’ lo usa inicialmente P. Galison (1987, p. 246), y hace
+referencia al empleo hecho por C. Braudel del vocabulario sociológico de Durkheim para
+señalar los aspectos temporales acumulativos y materiales de la emergencia del conocimiento.
+
+universitas philosophica 46 jun 2006
+
+124
+
+juan carlos moreno
+
+Filosofía de la Ciencia que poco se ha transitado aún, y en el cual el aspecto
+menos desarrollado es el correlato ontológico apropiado para los aportes
+ofrecidos por los estudios de la práctica científica en el sentido del primer
+giro, o de los estudios sociales de la ciencia, y en el sentido del segundo
+giro, o de los estudios de las acciones o de las intervenciones.
+En fin, lo más interesante a mi juicio en la propuesta realista de Hacking
+no es sólo la argumentación de un nuevo tipo de realismo, alternativo a otras
+propuestas, sino las implicaciones amplias de esta propuesta para pensar la
+ciencia no sólo como un conocimiento, sino como un proceso material de
+realización o de moldeamiento de ideas y hechos.
+Referencias bibliográficas
+
+Álvarez R., A. 2002. ‘Entrevista con Ian Hacking’ en Cuaderno de
+Materiales, n.° 17, Facultad de Filosofía de la Universidad Complutense
+de Madrid, pp. 52-56.
+Barnes, B. 1980. Estudios sobre Sociología de la Ciencia, Madrid: Alianza.
+Barnes, B. y Bloor, D. 1982. «Relativism, Rationalism and the Sociology
+of Knowledge» en M. Hollis y S. Lukes (eds.): Rationality and Relativism,
+Cambridge y Massachusett: The MIT Press.
+Bloor, D. 1980. Knowledge and Social Imaginery. Londres: Routledge and
+Keagan Paul.
+Crombie, A. C. 1994. Styles of Scientific Thinking in the European Tradition.
+3 Vol, Londres: Duckworh.
+Diéguez Lucena, Antonio. 1998. Realismo científico. Málaga: Universidad
+de Málaga.
+Díez, J. A. y Moulines, C. U. 1997. Fundamentos de Filosofía de la Ciencia.
+Barcelona: Ariel.
+Deyfus, H. L. y Rabinow, P. 2001. Michel Foucault: Más allá del
+Estructuralismo y la Hermenéutica. Buenos Aires: Nueva Visión.
+Echeverría, Javier. 1995. Filosofía de la ciencia. Madrid: Akal.
+universitas philosophica 46 jun 2006
+
+realidad y razón en la práctica de la ciencia
+
+125
+
+--------------------. 1999. Introducción a la metodología de la ciencia. La
+Filosofía de la Ciencia en el siglo XX. Madrid: Cátedra.
+Foucault, M. 1987. La arqueología del saber. México: Siglo XXI.
+------------- . 1999. Las palabras y las cosas: una arqueología de las ciencias.
+México y Madrid: Siglo XXI.
+Galison, P. 1987. How Experiments End. Chicago: University of Chicago
+Press.
+Galison, P y Jones, C. A. (eds.) 1990. Picturing Science, Producing Art,
+Londres: Routledge.
+Galison, P. y Thompson, E. (eds.). 1999. The Architecture of Science,
+Cambridge, Londres: The MIT Press.
+Geber, Beryl A. 1980. Piaget y el conocimiento. Buenos Aires: Paidós.
+Hacking, I. 1982. ‘Language, Truth and Reason’ en Lukes, S. y Hollis, M.
+(eds.). 1982. Rationality and Relativism, Cambridge, Massachusstts: The
+MIT Press.
+------------. 1986. Representar e intervenir. México: Paidós.
+------------. 1992a. ‘Statistical Language, Statistical Truth and Statistical
+Reason’. En: Mac Mullen, E. (ed.), 1992. Social Dimensions of Science,
+Notredame: Notredame University Press.
+------------. 1992b. ‘The Disunified Sciences’. En: R. Q. Elvee (ed.), 1992.
+The End of Science? Attack and Defense. Conference XXV, University Press
+of America, Inc. Gustavus Adolphus College.
+------------. 1996. ‘The Disunities of the Sciences’ en P. Galison y D. J. Stump
+(eds.). 1996. The Disunity of Science. (Bounderies, Contexts, and Power),
+Stanford: Standford University Press.
+------------. 1999. “La auto-justificación de las ciencias de laboratorio”. En
+A. Ambrogi(ed.): Filosofía de la ciencia. El giro naturalista, Islas Baleares,
+Palma. Traducción castellana de: “The Self – Vindication of the Laboratory
+universitas philosophica 46 jun 2006
+
+126
+
+juan carlos moreno
+
+Sciences”. En: Pickering, A. (ed.). 1992. Science as Practice and Culture.
+Chicago and London: University of Chicago Press.
+------------. 2000. ¿La Construcción Social de Qué?, Barcelona, Buenos
+Aires y México: Paidós. Vers. esp. J. Sánchez.
+------------. 2002: Historical Ontology, Cambridge y Londres: Harvard
+University Press.
+Iglesias de Castro, Mercedes. 2003. Intervención y efectos en Ian
+Hacking. Tesis doctoral. Director: Javier Echeverría. Madrid: Universidad
+Complutense de Madrid.
+Kuhn, Thomas.1991. La estructura de las revoluciones científicas. México:
+Fondo de Cultura Económica.
+------------------. 2001. El camino desde la estructura. Ensayos filosóficos
+1970-1993, con una entrevista autobiográfica, compiladores: James Conant
+y John Haugeland, Paidós, Barcelona: F.C.E.
+Latour, Bruno. 1995. La vida en el laboratorio: la construcción de los hechos
+científicos. Madrid : Alianza.
+----------------. 1995b. “¿Tienen Historia Los Objetos? El encuentro de
+Pasteur y de Whitehead en un baño de ácido láctico”. Isegoria: Revista de
+Filosofía Moral y Política No. 12 (Oct.1995).
+----------------. 2001. La esperanza de Pandora: ensayos sobre la realidad
+de los estudios de la ciencia. Barcelona: Gedisa.
+----------------. 2003. Science in Action: How to Follow Scientists and
+Engineers through Society. Cambridge, Massachusetts : Harvard University.
+Knorr Cetina. 1981. The Manufacture of Knowledge. An essay on the
+Constructivist and Contextual Nature of Science. Oxford, Nueva York:
+Pergamon.
+Piaget. 1971. “El mito del origen sensorial de los conocimientos científicos”.
+En: Psicología y epistemología. Barcelona: Ariel.
+-------. 1965. La construcción de lo real en el niño. Buenos Aires: Proteo.
+
+universitas philosophica 46 jun 2006
+
+realidad y razón en la práctica de la ciencia
+
+127
+
+-------. 1975. Introducción a la epistemología genética. Buenos Aires: Paidós.
+-------. 1997. La representación del mundo en el niño. Madrid: Morata. 8° Ed.
+Pickering, A. 1984. Constructing Quarks. A Sociological History of Particle
+Physics.Chicago: The University of Chicago Press.
+--------------. (ed.) 1992. Science as Practice and Culture. Chicago and
+London: University of Chicago Press.
+Pickering, A. Stephanides, 1992. Constructing Quaternions: On the Analysis
+of Conceptual Practice. En: Pickering, 1992.
+Pickering, A. 1995 The Mangle of Practice. Time, Agency, and Science.
+Chicago: The University of Chicago Press.
+Putnam, Hilary. 1988. Razón , verdad e historia, Madrid, Técnos.
+-----------------. 1990. Realism with a Human Face. Harvard University
+Press. Cambridge.
+-----------------. 1994. Las mil caras del realismo. Trad. M. Vázquez y M.
+Liz. Paidós. Barcelona.
+Van Fraassen. 1996. La imagen científica. Traducción de Sergio Martínez.
+México: Paidós.
+Woolgar, Steve. 1991. Ciencia: abriendo la caja negra. Barcelona:
+Anthropos.
+
+universitas philosophica 46 jun 2006
+
+128
+
+juan carlos moreno
+
+universitas philosophica 46 jun 2006
+
+
