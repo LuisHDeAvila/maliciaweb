@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+THISDIR=$PWD
+RCFILE=~/.bashrc
+
+echo 'export PATH=$PATH:"'$THISDIR'"' >> $RCFILE
+chmod +x $THISDIR/*
+
+cat << EOF
+OK! please reload command line.
+eject:  $_  bash
+EOF
