@@ -1,0 +1,16 @@
+#!/usr/bin/env bash
+# configurar proyecto en ReactJs para entorno de produccion Nextjs
+: '
+  Directivas del framework:
+    Elementos: Link, Image, Head
+    Ficheros: _app.js, _document.js, 
+    Convenciones: element.module.css
+
+'
+PATTERNS=['']
+
+function srcmap(){
+  find . | grep -Ev '\.+\/*(node_modules|git|public|json|md)'
+}
+
+srcmap | grep -E '\.js(x)*'
