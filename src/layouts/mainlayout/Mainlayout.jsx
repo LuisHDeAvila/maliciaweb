@@ -1,5 +1,5 @@
-import React from 'react';
-import './mainlayout.css';
+
+import './mainlayout.module.css';
 import { Navbar } from '../../components'
 import { Header, Footer } from '../../containers';
 

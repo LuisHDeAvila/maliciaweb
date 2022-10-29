@@ -1,16 +1,12 @@
 import { Mainlayout } from './layouts';
-import { Blog, Brand, Features } from './containers';
 import { Cta } from './components';
 
-import './App.css';
+import './App.module.css';
 
 // App === Homepage
 function App() {
   return (
     <Mainlayout>
-      <Blog/>
-      <Brand />
-      <Features />
       <Cta />
     </Mainlayout>
   );
